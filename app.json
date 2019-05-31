@@ -6,6 +6,7 @@
         "mattermost",
         "nginx"
     ],
+    "stack": "heroku-16",
     "success_url": "/",
     "buildpacks": [
         {
